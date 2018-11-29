@@ -7,6 +7,7 @@ public class Tomas {
 	this.nom =nom;
 	}
 
+	// Methode
 	public quiSuisJe(String nom, int age)
 	this.nom = nom;
 	this.age = age;
