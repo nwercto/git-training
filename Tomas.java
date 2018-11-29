@@ -3,6 +3,7 @@ public class Tomas {
 	private String nom;
 	private int age;
 
+	// Constructeur
 	public Tomas (String nom){
 	this.nom =nom;
 	}
