@@ -4,6 +4,7 @@ public class MaClasse {
 
 	public MaClasse(String nom)
 	{
+		int i = 0;
 	   	super();
 		this.nom = nom;
 	}
